@@ -5,25 +5,33 @@ This repository contains a Power BI Dashboard created for HR Analytics. The dash
 Features
 1. Employee Metrics
 Employee Count: Displays the total number of employees in the organization.
-2.Attrition: Shows the count of employees who have left the organization.
+Attrition: Shows the count of employees who have left the organization.
 Attrition Rate: Calculates the percentage of employees who have left, providing a measure of workforce stability.
-3. Average Metrics
+
+2. Average Metrics
 Average Age: Presents the average age of employees in the organization.
 Average Salary: Displays the average salary across all employees.
 Average Years of Service: Shows the average number of years employees have been with the company.
-4. Job Roles
+
+3. Job Roles
 Job Role Distribution: Visualizes the distribution of employees across different job roles.
-5. Attrition by Education
+
+4. Attrition by Education
 Attrition by Education Level: Provides insights into attrition rates based on employees' education levels.
-6. Interactivity
+
+5. Interactivity
 Slicers: Utilizes slicers for dynamic filtering, allowing users to focus on specific data subsets.
 Bookmarks: Implements bookmarks for saving and revisiting specific views or states within the dashboard.
 Page Navigation: Enhances user experience with intuitive page navigation for seamless exploration.
-7. Custom Tooltips
-Customized Tooltips: Enhances the user experience by providing informative and visually appealing tooltips.
-Getting Started
 
+6. Custom Tooltips
+Customized Tooltips: Enhances the user experience by providing informative and visually appealing tooltips.
+
+
+Getting Started
 Clone the repository:
+
+bash
 Copy code
 git clone https://github.com/pritikar03/HR-Analytics-Power-BI-Dashboard.git
 Open the Power BI file (HR_Analytics.pbix) using Power BI Desktop.
@@ -38,3 +46,4 @@ Contributions are welcome! If you have suggestions, improvements, or find any is
 
 License
 This project is licensed under the MIT License.
+
