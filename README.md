@@ -55,7 +55,7 @@ Explore the dashboard with the provided features, slicers, bookmarks, and custom
 
 Screenshots
 Include screenshots of different pages or key visualizations from your Power BI dashboard.
-![HR Analytics Dashboard](images/HR_Analytics_Dashboard.png)
+![HR Analytics Dashboard](HR_Analytics_Dashboard.png)
 
 Contributing
 Feel free to contribute to the project by opening issues or submitting pull requests.
