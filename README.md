@@ -1,4 +1,5 @@
 HR Analytics Power BI Dashboard
+
 Overview
 This repository contains a Power BI Dashboard created for HR Analytics. The dashboard provides insights into employee-related metrics, such as employee count, attrition, attrition rate, average age, average salary, average years of service, job roles, and attrition based on education. The dashboard leverages various Power BI features, including slicers, bookmarks, page navigation, and custom tooltips, to enhance interactivity and user experience.
 
